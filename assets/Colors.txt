@@ -1,0 +1,8 @@
+Orange #FF5A30  
+Yellow #FFDC64  
+Green  #43C204
+Grey0  #94AAAC
+Grey1  #656565
+Grey2  #7F7F7F
+Grey3  #4B4B4B 
+Grey4  #F4F4F4 
